@@ -4,13 +4,13 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Tiago Malta Leão
+- Matricula: 918189
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - ![![alt text](image.png)](image.png) >>
 
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
+<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - ![alt text](image-2.png) >>
 
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - ![alt text](image-1.png) >>
